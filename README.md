@@ -9,12 +9,12 @@ You will use Node.js for the backend with Express and a simple frontend using HT
 
 #### Project Directory Structure
 ```
-timestamp-microservice/
+timestamp-microservice/ 
 │
 ├── public/
 │   ├── index.html 
 │   ├── styles.css
-│   └── script.js
+│   └── script.js 
 │
 ├── server.js
 ├── package.json
