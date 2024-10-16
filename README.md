@@ -12,7 +12,7 @@ You will use Node.js for the backend with Express and a simple frontend using HT
 timestamp-microservice/
 │
 ├── public/
-│   ├── index.html
+│   ├── index.html 
 │   ├── styles.css
 │   └── script.js
 │
